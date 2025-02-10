@@ -1,0 +1,273 @@
+[
+      {
+        "question": "What is the main programming language used for Android development?",
+        "answer": "Kotlin",
+        "options": ["Java", "Kotlin", "Swift", "Python"],
+        "category": "Programming"
+      },
+      {
+        "question": "Which data structure follows the FIFO principle?",
+        "answer": "Queue",
+        "options": ["Stack", "Queue", "Array", "Graph"],
+        "category": "Programming"
+      },
+      {
+        "question": "What does HTML stand for?",
+        "answer": "HyperText Markup Language",
+        "options": ["HyperText Markdown Language", "HyperText Markup Language", "Hyper Transfer Markup Language", "HighText Machine Language"],
+        "category": "Programming"
+      },
+      {
+        "question": "Which of the following is not an OOP principle?",
+        "answer": "Recursion",
+        "options": ["Abstraction", "Polymorphism", "Encapsulation", "Recursion"],
+        "category": "Programming"
+      },
+      {
+        "question": "What does SQL stand for?",
+        "answer": "Structured Query Language",
+        "options": ["Structured Question Language", "Simple Query Language", "Structured Query Language", "Sequential Query Language"],
+        "category": "Programming"
+      },
+      {
+        "question": "Which company developed the Python programming language?",
+        "answer": "Python Software Foundation",
+        "options": ["Google", "Microsoft", "Python Software Foundation", "Facebook"],
+        "category": "Programming"
+      },
+      {
+        "question": "Which symbol is used for single-line comments in Python?",
+        "answer": "#",
+        "options": ["//", "/*", "#", "--"],
+        "category": "Programming"
+      },
+      {
+        "question": "What is the time complexity of binary search?",
+        "answer": "O(log n)",
+        "options": ["O(n)", "O(log n)", "O(n^2)", "O(1)"],
+        "category": "Programming"
+      },
+      {
+        "question": "What is the full form of API?",
+        "answer": "Application Programming Interface",
+        "options": ["Application Program Interface", "Automated Programming Interface", "Application Programming Interface", "Advanced Protocol Interface"],
+        "category": "Programming"
+      },
+      {
+        "question": "Which programming language is primarily used for developing iOS apps?",
+        "answer": "Swift",
+        "options": ["Swift", "Java", "Kotlin", "C#"],
+        "category": "Programming"
+      },
+      {
+        "question": "What does CSS stand for?",
+        "answer": "Cascading Style Sheets",
+        "options": ["Computer Style Sheets", "Cascading Style Sheets", "Creative Style Sheets", "Colorful Style Sheets"],
+        "category": "Programming"
+      },
+      {
+        "question": "Which of these is a NoSQL database?",
+        "answer": "MongoDB",
+        "options": ["MySQL", "MongoDB", "PostgreSQL", "SQLite"],
+        "category": "Programming"
+      },
+      {
+        "question": "What is the output of 2**3 in Python?",
+        "answer": "8",
+        "options": ["6", "8", "9", "12"],
+        "category": "Programming"
+      },
+      {
+        "question": "Which sorting algorithm has the worst-case complexity of O(n^2)?",
+        "answer": "Bubble Sort",
+        "options": ["Quick Sort", "Merge Sort", "Bubble Sort", "Heap Sort"],
+        "category": "Programming"
+      },
+      {
+        "question": "What is the role of a constructor in OOP?",
+        "answer": "Initialize an object",
+        "options": ["Destroy an object", "Initialize an object", "Print an object", "Copy an object"],
+        "category": "Programming"
+      },
+
+      {
+        "question": "Who has scored the most runs in ODI cricket?",
+        "answer": "Sachin Tendulkar",
+        "options": ["Virat Kohli", "Ricky Ponting", "Sachin Tendulkar", "Kumar Sangakkara"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Who won the first T20 World Cup?",
+        "answer": "India",
+        "options": ["Australia", "India", "West Indies", "Pakistan"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Which stadium is known as the 'Home of Cricket'?",
+        "answer": "Lord's",
+        "options": ["Eden Gardens", "MCG", "Lord's", "Wankhede"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Who has taken the most wickets in Test cricket?",
+        "answer": "Muttiah Muralitharan",
+        "options": ["Shane Warne", "Muttiah Muralitharan", "Anil Kumble", "James Anderson"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Which team has won the most Cricket World Cups?",
+        "answer": "Australia",
+        "options": ["India", "West Indies", "Australia", "England"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Who scored the fastest century in ODI cricket?",
+        "answer": "AB de Villiers",
+        "options": ["Chris Gayle", "Virat Kohli", "AB de Villiers", "Shahid Afridi"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Who was the first cricketer to score 100 international centuries?",
+        "answer": "Sachin Tendulkar",
+        "options": ["Virat Kohli", "Ricky Ponting", "Sachin Tendulkar", "Jacques Kallis"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Which bowler has taken the most wickets in IPL history?",
+        "answer": "Lasith Malinga",
+        "options": ["Lasith Malinga", "Dwayne Bravo", "Amit Mishra", "Sunil Narine"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Who is the only batsman to score 400 runs in a Test match?",
+        "answer": "Brian Lara",
+        "options": ["Don Bradman", "Brian Lara", "Virender Sehwag", "Matthew Hayden"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Which country hosted the first-ever Cricket World Cup?",
+        "answer": "England",
+        "options": ["India", "Australia", "West Indies", "England"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Which cricketer is known as 'The Wall'?",
+        "answer": "Rahul Dravid",
+        "options": ["Sachin Tendulkar", "Rahul Dravid", "Jacques Kallis", "Ricky Ponting"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Who was the first captain to win all three ICC trophies (T20, ODI, Champions Trophy)?",
+        "answer": "MS Dhoni",
+        "options": ["Ricky Ponting", "MS Dhoni", "Eoin Morgan", "Sourav Ganguly"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Which batsman holds the record for the highest individual score in an ODI match?",
+        "answer": "Rohit Sharma",
+        "options": ["Virender Sehwag", "Martin Guptill", "Rohit Sharma", "Chris Gayle"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Who bowled the fastest delivery in cricket history?",
+        "answer": "Shoaib Akhtar",
+        "options": ["Brett Lee", "Shoaib Akhtar", "Jeff Thomson", "Mitchell Starc"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Which team won the IPL 2023 season?",
+        "answer": "Chennai Super Kings",
+        "options": ["Mumbai Indians", "Chennai Super Kings", "Rajasthan Royals", "Gujarat Titans"],
+        "category": "Cricket"
+      },
+      {
+        "question": "Who won the Academy Award for Best Actor in 2020?",
+        "answer": "Joaquin Phoenix",
+        "options": ["Brad Pitt", "Joaquin Phoenix", "Leonardo DiCaprio", "Tom Hanks"],
+        "category": "Entertainment"
+      },
+      {
+        "question": "Which movie won the Academy Award for Best Picture in 2019?",
+        "answer": "Parasite",
+        "options": ["1917", "Once Upon a Time in Hollywood", "Parasite", "The Irishman"],
+        "category": "Entertainment"
+      },
+      {
+        "question": "Which actress played the role of Hermione Granger in the Harry Potter films?",
+        "answer": "Emma Watson",
+        "options": ["Emma Watson", "Natalie Portman", "Scarlett Johansson", "Keira Knightley"],
+        "category": "Entertainment"
+      },
+      {
+        "question": "Which movie franchise is known for the character 'The Joker'?",
+        "answer": "Batman",
+        "options": ["Spider-Man", "Iron Man", "Batman", "Superman"],
+        "category": "Entertainment"
+      },
+      {
+        "question": "Who starred as the lead character in the film 'Titanic'?",
+        "answer": "Leonardo DiCaprio",
+        "options": ["Brad Pitt", "Leonardo DiCaprio", "Johnny Depp", "Matt Damon"],
+        "category": "Entertainment"
+      },
+      {
+        "question": "Which singer is known as the 'Queen of Pop'?",
+        "answer": "Madonna",
+        "options": ["Lady Gaga", "Madonna", "Beyoncé", "Kylie Minogue"],
+        "category": "Entertainment"
+      },
+      {
+        "question": "Which 2018 film directed by Ryan Coogler was a major cultural milestone for Marvel?",
+        "answer": "Black Panther",
+        "options": ["Avengers: Infinity War", "Black Panther", "Thor: Ragnarok", "Spider-Man: Homecoming"],
+        "category": "Entertainment"
+      },
+      {
+        "question": "Who is the creator of the TV series 'Game of Thrones'?",
+        "answer": "George R. R. Martin",
+        "options": ["J.J. Abrams", "George R. R. Martin", "Vince Gilligan", "David Benioff"],
+        "category": "Entertainment"
+      },
+      {
+        "question": "Which movie features the famous quote 'May the Force be with you'?",
+        "answer": "Star Wars",
+        "options": ["Star Trek", "Star Wars", "The Matrix", "Guardians of the Galaxy"],
+        "category": "Entertainment"
+      },
+      {
+        "question": "Which pop star is known for her 'Vogue' and 'Material Girl' hits?",
+        "answer": "Madonna",
+        "options": ["Beyoncé", "Ariana Grande", "Madonna", "Shakira"],
+        "category": "Entertainment"
+      },
+      {
+        "question": "Which film won the Academy Award for Best Animated Feature in 2020?",
+        "answer": "Toy Story 4",
+        "options": ["Frozen 2", "Toy Story 4", "How to Train Your Dragon: The Hidden World", "Klaus"],
+        "category": "Entertainment"
+      },
+      {
+        "question": "Which actor plays Iron Man in the Marvel Cinematic Universe?",
+        "answer": "Robert Downey Jr.",
+        "options": ["Chris Hemsworth", "Robert Downey Jr.", "Chris Evans", "Mark Ruffalo"],
+        "category": "Entertainment"
+      },
+      {
+        "question": "Who won the first season of 'American Idol'?",
+        "answer": "Kelly Clarkson",
+        "options": ["Justin Guarini", "Kelly Clarkson", "Clay Aiken", "Fantasia Barrino"],
+        "category": "Entertainment"
+      },
+      {
+        "question": "Who directed the iconic movie 'Jaws'?",
+        "answer": "Steven Spielberg",
+        "options": ["Martin Scorsese", "Stanley Kubrick", "Steven Spielberg", "Alfred Hitchcock"],
+        "category": "Entertainment"
+      },
+      {
+        "question": "Which TV series is set in a high school in the fictional town of Sunnydale?",
+        "answer": "Buffy the Vampire Slayer",
+        "options": ["The OC", "Buffy the Vampire Slayer", "Glee", "Dawson's Creek"],
+        "category": "Entertainment"
+      } 
+]
